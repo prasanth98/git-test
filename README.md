@@ -1,1 +1,1 @@
-# git-testDevelopers can start creating their modules
+# Developers can start creating their modules
