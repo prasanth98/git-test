@@ -1,1 +1,2 @@
-This is recently committed file in development  
+This is recently committed file in development
+adding new feature 
