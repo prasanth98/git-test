@@ -1,1 +1,2 @@
 This is recently committed file in development  
+I create conflicts in code
