@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-This is recently committed file in development  
-I create conflicts in code
-=======
 This is recently committed file in development
 adding new feature 
->>>>>>> feature/dev
+
