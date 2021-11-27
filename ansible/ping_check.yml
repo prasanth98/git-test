@@ -6,4 +6,4 @@
     register: ping_out
     
   - debug:
-      msg: {{ping_out}}
+      msg: "{{ping_out}}"
