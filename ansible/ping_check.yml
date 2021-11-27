@@ -1,5 +1,5 @@
 ---
-- hosts: localhost
+- hosts: 13.233.88.106
   tasks:
   - name: Check the server reachablity
     ping:
