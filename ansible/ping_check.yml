@@ -5,5 +5,10 @@
     ping:
     register: ping_out
     
-  - debug:
-      msg: "{{ping_out}}"
+  - shell: whoami
+    register: out
+    become: yes
+    become_method: sudo
+   
+  - debug: var=out
+    
