@@ -1,0 +1,5 @@
+[test]
+13.233.88.106
+
+[test:vars]
+ansible_user=ubuntu
