@@ -1,5 +1,5 @@
 ---
-- hosts: 13.233.88.106
+- hosts: test
   tasks:
   - name: Check the server reachablity
     ping:
