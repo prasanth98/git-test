@@ -1,0 +1,9 @@
+---
+- hosts: localhost
+  tasks:
+  - name: Check the server reachablity
+    ping:
+    register: ping_out
+    
+  - debug:
+      msg: {{ping_out}}
